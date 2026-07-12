@@ -1,7 +1,12 @@
-# 💳 AI-Powered Credit Risk Analytics & Collections Strategy
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%">
+</p>
 
-> An end-to-end data analytics and AI strategy project completed as part of the **Tata GenAI Powered Data Analytics Job Simulation** on Forage.
+<h1 align="center">💳 AI-Powered Credit Risk Analytics & Collections Strategy</h1>
 
+<p align="center">
+An end-to-end data analytics and AI strategy project completed as part of the <b>Tata GenAI Powered Data Analytics Job Simulation</b> on Forage.
+</p>
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-Conceptual-blue?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Logistic_Regression-orange?style=for-the-badge)
@@ -44,6 +49,8 @@ This project demonstrates an end-to-end analytics workflow, starting with Explor
 
 # 🔍 Exploratory Data Analysis
 
+<p align="center"><img src="assets/eda-cover.jpg" width="80%"></p>
+
 The EDA focused on evaluating data quality before any predictive modelling.
 
 Key activities included:
@@ -72,6 +79,8 @@ These variables were selected as the most informative inputs for the predictive 
 ---
 
 # 🤖 Predictive Model
+
+<p align="center"><img src="assets/predictive-cover.jpg" width="80%"></p>
 
 ### Selected Model
 
@@ -120,6 +129,8 @@ Customer Data
 ---
 
 # 🧠 AI-Powered Collections Strategy
+
+<p align="center"><img src="assets/presentation-cover.png" width="80%"></p>
 
 The proposed AI system consists of four core components:
 
@@ -180,35 +191,23 @@ The proposed solution follows responsible AI practices by incorporating:
 
 ---
 
-# 📂 Repository Structure
+# 📂 Project Deliverables
 
-```
-credit-risk-analytics/
-│
-├── README.md
-│
-├── reports/
-│   ├── 01_EDA_Summary_Report.pdf
-│   ├── 02_Predictive_Model_Plan.pdf
-│   └── 03_Business_Summary_Report.pdf
-│
-├── presentation/
-│   ├── AI_Collections_Strategy.pptx
-│   └── AI_Collections_Strategy.pdf
-│
-├── certificate/
-│   └── Tata_GenAI_Powered_Data_Analytics_Certificate.pdf
-│
-├── assets/
-│   ├── certificate-preview.jpg
-│   ├── eda-cover.png
-│   ├── predictive-cover.png
-│   ├── business-cover.png
-│   ├── presentation-cover.png
-│   └── banner.png
-│
-└── LICENSE
-```
+| Deliverable | Status |
+|------------|--------|
+| Exploratory Data Analysis Report | ✅ |
+| Predictive Model Plan | ✅ |
+| Business Recommendation Report | ✅ |
+| AI Collections Strategy Presentation | ✅ |
+| Completion Certificate | ✅ |
+
+### Quick Access
+
+- 📄 `reports/EDA_Report.pdf`
+- 📄 `reports/Predictive_Model_Plan.pdf`
+- 📄 `reports/Business_Report.pdf`
+- 📊 `presentation/AI-Powered-Collections-Strategy.pdf`
+- 🏆 `certificate/Tata_GenAI_Powered_Data_Analytics_Certificate.pdf`
 
 ---
 
@@ -239,17 +238,19 @@ credit-risk-analytics/
 
 # 🏆 Certificate
 
+<p align="center"><img src="assets/certificate-preview.jpg" width="60%"></p>
+
 This project was completed as part of the **Tata GenAI Powered Data Analytics Job Simulation** on Forage.
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 About Me
 
 **Tanmay Thakur**
 
 B.Tech Computer Science Engineering
 
-Aspiring Data Analyst | Business Analytics | AI | Machine Learning
+Aspiring Data Analyst with interests in Business Analytics, Machine Learning, Responsible AI, SQL, Power BI, and data-driven decision making.
 
 LinkedIn:
 (https://www.linkedin.com/in/tanmay-thakur-45359b32a/)
