@@ -6,13 +6,13 @@
 
 <p align="center">
 An end-to-end data analytics and AI strategy project completed as part of the <b>Tata GenAI Powered Data Analytics Job Simulation</b> on Forage.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-Conceptual-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI-GenAI-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Business%20Analytics-green?style=for-the-badge">
 </p>
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Conceptual-blue?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Logistic_Regression-orange?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-GenAI-purple?style=for-the-badge)
-![Business Analytics](https://img.shields.io/badge/Business-Analytics-green?style=for-the-badge)
-
 ---
 
 # 📌 Project Overview
