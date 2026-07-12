@@ -186,22 +186,28 @@ The proposed solution follows responsible AI practices by incorporating:
 credit-risk-analytics/
 │
 ├── README.md
+│
 ├── reports/
-│   ├── EDA_Report.pdf
-│   ├── Predictive_Model_Plan.pdf
-│   ├── Business_Report.pdf
-│   └── AI_Collections_Strategy_Report.pdf
+│   ├── 01_EDA_Summary_Report.pdf
+│   ├── 02_Predictive_Model_Plan.pdf
+│   └── 03_Business_Summary_Report.pdf
 │
 ├── presentation/
-│   └── AI_Collections_Strategy.pptx
+│   ├── AI_Collections_Strategy.pptx
+│   └── AI_Collections_Strategy.pdf
 │
 ├── certificate/
-│   └── Tata_GenAI_Certificate.pdf
+│   └── Tata_GenAI_Powered_Data_Analytics_Certificate.pdf
 │
-└── assets/
-    ├── banner.png
-    ├── workflow.png
-    └── certificate.png
+├── assets/
+│   ├── certificate-preview.jpg
+│   ├── eda-cover.png
+│   ├── predictive-cover.png
+│   ├── business-cover.png
+│   ├── presentation-cover.png
+│   └── banner.png
+│
+└── LICENSE
 ```
 
 ---
@@ -227,8 +233,6 @@ credit-risk-analytics/
 
 ✔ Business Recommendation Report
 
-✔ AI Collections Strategy Presentation
-
 ✔ Completion Certificate
 
 ---
@@ -248,10 +252,10 @@ B.Tech Computer Science Engineering
 Aspiring Data Analyst | Business Analytics | AI | Machine Learning
 
 LinkedIn:
-(Add your LinkedIn profile)
+(https://www.linkedin.com/in/tanmay-thakur-45359b32a/)
 
 GitHub:
-(Add your GitHub profile)
+(https://github.com/tanmayanalyst)
 
 ---
 
